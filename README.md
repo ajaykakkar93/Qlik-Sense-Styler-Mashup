@@ -1,4 +1,4 @@
-# Qlik-Sese-Styler-Mashup
+# Qlik-Sense-Styler-Mashup
   ## Basic Styling option for Theming API.
   ### Styling options for
     -Table
